@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Indie Flower, cursive;
+  font-size: 20px;
+}
+
+h1 {
+  margin-block-start: 1.67em;
+  margin-block-end: 0;
+  font-size: 50px;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+hr{
+  width:20%;
+  border-top-style: dotted;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-width: 10px;
+  border-color: #EAF6F6;
+}
+
+p {
+  margin-block-start: 0;
+  margin-block-end: 1em;
+  display: block;
+}
+
+.subhead {
+  font-weight: normal;
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+}
+
+.initialblock {
+  background-color: #88FFF7;
+  margin-left: 0;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  padding: 100px;
+  display: block;
+  position: relative;
+  height: 562.5px;
+  color: #66BFBF;
+  line-height: 2;
+}
+.profile{
+  margin-top: 10%;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.moja {
+  color: red
+}
+
+.mbili {
+  color: yellow;
+}
+
+.tatu {
+  color: green;
+}
+
+.nne {
+  color: white;
+}
+
+.tano {
+  color: blue;
+}
+
+.sita {
+  color: black;
+}
+
+span {
+  text-decoration:underline ;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: auto;
+  margin-bottom: 500px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.pc{
+width: 25%;
+float: left;
+margin-right:30px;
+
+}
+.insta{
+  width: 25%;
+  float: right;
+}
